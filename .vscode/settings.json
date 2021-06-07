@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "rcc.h": "c",
+        "spi.h": "c",
+        "dma.h": "c",
+        "gpio.h": "c",
+        "nvic.h": "c",
+        "gpio_common_f24.h": "c",
+        "keys.h": "c",
+        "debug.h": "c",
+        "systick.h": "c",
+        "st_eeprom.h": "c",
+        "*.old": "c",
+        "delay.h": "c",
+        "usb.h": "c",
+        "_mapped_gfx.h": "c",
+        "common.h": "c"
+    }
+}
