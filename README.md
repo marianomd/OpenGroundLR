@@ -1,7 +1,6 @@
 # OpenGroundLR
-Flysky I6X port of OpenGround
+Flysky I6X port of [fishpepper's OpenGround](https://github.com/fishpepper/OpenGround)
 
-This is a work in progress.
 Differences to OpenGround:
 
 * Removed frsky code
@@ -9,6 +8,7 @@ Differences to OpenGround:
 * Added UART logging
 * Reading ADC channels is working (sticks and battery voltage)
 * USB joystick working
+* Using Platformio for building
 
 Currently working on:
 
