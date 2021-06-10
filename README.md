@@ -10,6 +10,4 @@ Differences to OpenGround:
 * USB joystick working
 * Using Platformio for building
 
-Currently working on:
-
-* Menus and navigation
+Currently shifted efforts to OpenTX: (https://github.com/marianomd/opentx)
